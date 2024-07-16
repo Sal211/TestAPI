@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WorkAPI\\TestAPI\\WebApplication1\\WebApplication1.csproj": {}
+    "D:\\WorkAPI\\GitAPI\\TestAPI\\TestAPI\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "D:\\WorkAPI\\TestAPI\\WebApplication1\\WebApplication1.csproj": {
+    "D:\\WorkAPI\\GitAPI\\TestAPI\\TestAPI\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WorkAPI\\TestAPI\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "D:\\WorkAPI\\GitAPI\\TestAPI\\TestAPI\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "D:\\WorkAPI\\TestAPI\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "D:\\WorkAPI\\GitAPI\\TestAPI\\TestAPI\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\U-ser\\.nuget\\packages\\",
-        "outputPath": "D:\\WorkAPI\\TestAPI\\WebApplication1\\obj\\",
+        "outputPath": "D:\\WorkAPI\\GitAPI\\TestAPI\\TestAPI\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
